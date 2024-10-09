@@ -28,4 +28,4 @@ This modpack is distributed under the MIT License.
 
 ## Support
 
-For any questions or issues, please [open an issue]([https://github.com/username/repo/issues](https://github.com/monachwan/first-modpack/issues)).
+If you encounter any issues, please report them [here](https://github.com/monachwan/first-modpack/issues).
